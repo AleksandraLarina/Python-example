@@ -50,3 +50,4 @@ pr_user = PremiumUser('Mike', 'Novel', 'jjjjj')
 pr_user.greet()
 print(pr_user.desk)
 
+print('Hello, world')
