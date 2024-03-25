@@ -51,3 +51,8 @@ pr_user.greet()
 print(pr_user.desk)
 
 print('Hello, world')
+
+def changes(changes):
+    print(f'There are some {changes}')
+
+n, m = map(int,input()).split()
