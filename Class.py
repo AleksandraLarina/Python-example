@@ -36,7 +36,7 @@ print(User.count)
 print(user1.function(34))
 
 # Наследование
-class PremiumUser(User): # Наследует все атрибуты и методы родительского класса
+class PremiumUser(User): # Наследует все атрибуты и методы родительскоwedwfго класса
 
     def __init__(self, name, lname, desk):
         super().__init__(name, lname)
@@ -51,3 +51,5 @@ pr_user.greet()
 print(pr_user.desk)
 
 print('Hello, world')
+
+# Comment
